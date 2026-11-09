@@ -4,8 +4,9 @@ const APP_SHELL = [
     './index.html',
     './app.js',
     './supabase-config.js',
+    './assets/css/styles.css',
+    './assets/images/icon.svg',
     './manifest.webmanifest',
-    './icon.svg'
 ];
 const CDN_ASSETS = [
     'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css',
